@@ -8,10 +8,25 @@
 
 /* Begin PBXFileReference section */
 		771F82E5292525EA007AEDC2 /* 02_ControlSyntax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_ControlSyntax.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7737E52C292CF5F4008E53EE /* 03_fortune.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03_fortune.swift; sourceTree = "<group>"; };
+		7737E52E292CFED4008E53EE /* Rand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rand.swift; sourceTree = "<group>"; };
+		7737E52F292D002B008E53EE /* Analyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analyzer.swift; sourceTree = "<group>"; };
+		7737E530292D0200008E53EE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7783C4D8291FC948006A3B4B /* 01_DataTypeAndVariable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_DataTypeAndVariable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		7737E52D292CFD10008E53EE /* 03_easyWayToDoIt */ = {
+			isa = PBXGroup;
+			children = (
+				7737E52C292CF5F4008E53EE /* 03_fortune.swift */,
+				7737E52E292CFED4008E53EE /* Rand.swift */,
+				7737E52F292D002B008E53EE /* Analyzer.swift */,
+				7737E530292D0200008E53EE /* main.swift */,
+			);
+			path = 03_easyWayToDoIt;
+			sourceTree = "<group>";
+		};
 		7783C4D0291FC8B7006A3B4B = {
 			isa = PBXGroup;
 			children = (
@@ -22,6 +37,7 @@
 		7783C4D7291FC8CF006A3B4B /* 01_ProgrammingWithSwift */ = {
 			isa = PBXGroup;
 			children = (
+				7737E52D292CFD10008E53EE /* 03_easyWayToDoIt */,
 				7783C4D8291FC948006A3B4B /* 01_DataTypeAndVariable.playground */,
 				771F82E5292525EA007AEDC2 /* 02_ControlSyntax.playground */,
 			);
