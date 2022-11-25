@@ -13,6 +13,7 @@
 		7737E52F292D002B008E53EE /* Analyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analyzer.swift; sourceTree = "<group>"; };
 		7737E530292D0200008E53EE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7783C4D8291FC948006A3B4B /* 01_DataTypeAndVariable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_DataTypeAndVariable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7784C357292FA7FC00ADEA8B /* 01_BasicFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_BasicFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -31,6 +32,7 @@
 			isa = PBXGroup;
 			children = (
 				7783C4D7291FC8CF006A3B4B /* 01_ProgrammingWithSwift */,
+				7784C356292FA60500ADEA8B /* 02_Function */,
 			);
 			sourceTree = "<group>";
 		};
@@ -42,6 +44,14 @@
 				771F82E5292525EA007AEDC2 /* 02_ControlSyntax.playground */,
 			);
 			path = 01_ProgrammingWithSwift;
+			sourceTree = "<group>";
+		};
+		7784C356292FA60500ADEA8B /* 02_Function */ = {
+			isa = PBXGroup;
+			children = (
+				7784C357292FA7FC00ADEA8B /* 01_BasicFunction.playground */,
+			);
+			path = 02_Function;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
