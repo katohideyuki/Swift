@@ -17,6 +17,7 @@
 		7784C357292FA7FC00ADEA8B /* 01_BasicFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_BasicFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77872DB32930FBAA006292A1 /* 02_VariousSetForFunc.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_VariousSetForFunc.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		778C1C002934C9300004AE28 /* 04_Tuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Tuple.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77C1B78A2936404700097EC2 /* 01_StructureDefinition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_StructureDefinition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -36,6 +37,7 @@
 			children = (
 				7783C4D7291FC8CF006A3B4B /* 01_ProgrammingWithSwift */,
 				7784C356292FA60500ADEA8B /* 02_Function */,
+				77C1B78929363F8300097EC2 /* 03_Structure */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +60,14 @@
 				778C1C002934C9300004AE28 /* 04_Tuple.playground */,
 			);
 			path = 02_Function;
+			sourceTree = "<group>";
+		};
+		77C1B78929363F8300097EC2 /* 03_Structure */ = {
+			isa = PBXGroup;
+			children = (
+				77C1B78A2936404700097EC2 /* 01_StructureDefinition.playground */,
+			);
+			path = 03_Structure;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
