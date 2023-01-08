@@ -17,6 +17,7 @@
 		776689972965BEB40009D45E /* 03_IUO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_IUO.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7783C4D8291FC948006A3B4B /* 01_DataTypeAndVariable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_DataTypeAndVariable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7784C357292FA7FC00ADEA8B /* 01_BasicFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_BasicFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7786651C296ADFE8005E0236 /* 4-4_FailableInitializer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4-4_FailableInitializer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77872DB32930FBAA006292A1 /* 02_VariousSetForFunc.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_VariousSetForFunc.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		778C1C002934C9300004AE28 /* 04_Tuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Tuple.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		779340BA29532F3A00B14353 /* 04_Subscript.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Subscript.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -75,6 +76,7 @@
 				779F275329548EFD00DF51A3 /* 01_Optional.playground */,
 				779F27542958670800DF51A3 /* 02_OptionalBinding.playground */,
 				776689972965BEB40009D45E /* 03_IUO.playground */,
+				7786651C296ADFE8005E0236 /* 4-4_FailableInitializer.playground */,
 			);
 			path = 04_TypeOptional;
 			sourceTree = "<group>";
