@@ -22,6 +22,7 @@
 		7786652729739E4F005E0236 /* 02_Declare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_Declare.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77866528297965C4005E0236 /* 03_AssociatedType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_AssociatedType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77866529297BDC87005E0236 /* 04_Tipical.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Tipical.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7786652B297BE640005E0236 /* 01_RangeAndStride.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_RangeAndStride.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77872DB32930FBAA006292A1 /* 02_VariousSetForFunc.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_VariousSetForFunc.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		778C1C002934C9300004AE28 /* 04_Tuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Tuple.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		779340BA29532F3A00B14353 /* 04_Subscript.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Subscript.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -51,6 +52,7 @@
 				77C1B78929363F8300097EC2 /* 03_Structure */,
 				779F275229548E3B00DF51A3 /* 04_TypeOptional */,
 				7786651D296AF5CD005E0236 /* 05_Protocol */,
+				7786652A297BE5DA005E0236 /* 06_BasicDataType */,
 			);
 			sourceTree = "<group>";
 		};
@@ -84,6 +86,14 @@
 				77866529297BDC87005E0236 /* 04_Tipical.playground */,
 			);
 			path = 05_Protocol;
+			sourceTree = "<group>";
+		};
+		7786652A297BE5DA005E0236 /* 06_BasicDataType */ = {
+			isa = PBXGroup;
+			children = (
+				7786652B297BE640005E0236 /* 01_RangeAndStride.playground */,
+			);
+			path = 06_BasicDataType;
 			sourceTree = "<group>";
 		};
 		779F275229548E3B00DF51A3 /* 04_TypeOptional */ = {
