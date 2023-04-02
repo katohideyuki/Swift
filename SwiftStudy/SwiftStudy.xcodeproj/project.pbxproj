@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		7715B26529894323009DB13D /* 02_Enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_Enum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7715B266298BEF24009DB13D /* 03_UnionType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_UnionType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7715B26929A4FCA5009DB13D /* 01_OuntlineClass.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_OuntlineClass.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		771F82E5292525EA007AEDC2 /* 02_ControlSyntax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_ControlSyntax.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		772F218229421F88005355FB /* 03_Property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_Property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7737E52C292CF5F4008E53EE /* 03_fortune.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03_fortune.swift; sourceTree = "<group>"; };
@@ -39,6 +40,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		7715B26829A4F08E009DB13D /* 08_ClassAndExtend */ = {
+			isa = PBXGroup;
+			children = (
+				7715B26929A4FCA5009DB13D /* 01_OuntlineClass.playground */,
+			);
+			path = 08_ClassAndExtend;
+			sourceTree = "<group>";
+		};
 		7737E52D292CFD10008E53EE /* 03_easyWayToDoIt */ = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +69,7 @@
 				7786651D296AF5CD005E0236 /* 05_Protocol */,
 				7786652A297BE5DA005E0236 /* 06_BasicDataType */,
 				7786652F2987F811005E0236 /* 07_Pattern */,
+				7715B26829A4F08E009DB13D /* 08_ClassAndExtend */,
 			);
 			sourceTree = "<group>";
 		};
