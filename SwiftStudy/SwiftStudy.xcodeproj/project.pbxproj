@@ -39,6 +39,7 @@
 		77B6C4EA2940AB98000201CE /* 02_Method.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_Method.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77C1B78A2936404700097EC2 /* 01_StructureDefinition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_StructureDefinition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77E6166529EC33A0009FED50 /* 04_ClassAndType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_ClassAndType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77EE5B0D2A03C39B00B96158 /* 01_ReferenceTypeData.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_ReferenceTypeData.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77F52DAB29DAFC0100CEDFE6 /* 02_Initializer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_Initializer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -76,6 +77,7 @@
 				7786652A297BE5DA005E0236 /* 06_BasicDataType */,
 				7786652F2987F811005E0236 /* 07_Pattern */,
 				7715B26829A4F08E009DB13D /* 08_ClassAndExtend */,
+				77EE5B0C2A03C33D00B96158 /* 09_MemoryManagement */,
 			);
 			sourceTree = "<group>";
 		};
@@ -152,6 +154,14 @@
 				779340BA29532F3A00B14353 /* 04_Subscript.playground */,
 			);
 			path = 03_Structure;
+			sourceTree = "<group>";
+		};
+		77EE5B0C2A03C33D00B96158 /* 09_MemoryManagement */ = {
+			isa = PBXGroup;
+			children = (
+				77EE5B0D2A03C39B00B96158 /* 01_ReferenceTypeData.playground */,
+			);
+			path = 09_MemoryManagement;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
