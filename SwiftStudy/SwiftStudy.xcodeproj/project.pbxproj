@@ -40,6 +40,7 @@
 		77C1B78A2936404700097EC2 /* 01_StructureDefinition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_StructureDefinition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77E6166529EC33A0009FED50 /* 04_ClassAndType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_ClassAndType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77EE5B0D2A03C39B00B96158 /* 01_ReferenceTypeData.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_ReferenceTypeData.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77EE5B0E2A03EA3600B96158 /* 02_StrongReferenceCycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_StrongReferenceCycle.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		77F52DAB29DAFC0100CEDFE6 /* 02_Initializer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_Initializer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -160,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				77EE5B0D2A03C39B00B96158 /* 01_ReferenceTypeData.playground */,
+				77EE5B0E2A03EA3600B96158 /* 02_StrongReferenceCycle.playground */,
 			);
 			path = 09_MemoryManagement;
 			sourceTree = "<group>";
