@@ -12,6 +12,7 @@
 		7715B26929A4FCA5009DB13D /* 01_OuntlineClass.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_OuntlineClass.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		771F82E5292525EA007AEDC2 /* 02_ControlSyntax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_ControlSyntax.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		772F218229421F88005355FB /* 03_Property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_Property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		772F817B2A7F76BD00A368FA /* 04_ClosuresAndStatements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_ClosuresAndStatements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7737E52C292CF5F4008E53EE /* 03_fortune.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03_fortune.swift; sourceTree = "<group>"; };
 		7737E52E292CFED4008E53EE /* Rand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rand.swift; sourceTree = "<group>"; };
 		7737E52F292D002B008E53EE /* Analyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analyzer.swift; sourceTree = "<group>"; };
@@ -161,6 +162,7 @@
 				77A8F7092A3CA617002C1EAC /* 01_ClosureDeclaration.playground */,
 				7760FBAE2A485AFA001F76A8 /* 02_Capture.playground */,
 				7760FBAF2A59777A001F76A8 /* 03_UsageAndNotation.playground */,
+				772F817B2A7F76BD00A368FA /* 04_ClosuresAndStatements.playground */,
 			);
 			path = 12_Closure;
 			sourceTree = "<group>";
