@@ -23,6 +23,7 @@
 		7760FBAF2A59777A001F76A8 /* 03_UsageAndNotation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_UsageAndNotation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		776689972965BEB40009D45E /* 03_IUO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_IUO.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7767583A29E59A7B00F77BEC /* 03_InitializersAndSubClasses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_InitializersAndSubClasses.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		777C698B2A90F49E00A38270 /* 01_dateType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_dateType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7783C4D8291FC948006A3B4B /* 01_DataTypeAndVariable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_DataTypeAndVariable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7784C357292FA7FC00ADEA8B /* 01_BasicFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_BasicFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7786651C296ADFE8005E0236 /* 04_FailableInitializer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_FailableInitializer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -76,6 +77,14 @@
 			path = 03_easyWayToDoIt;
 			sourceTree = "<group>";
 		};
+		777C698A2A90F42A00A38270 /* 14_MemoryAccessAndPointers */ = {
+			isa = PBXGroup;
+			children = (
+				777C698B2A90F49E00A38270 /* 01_dateType.playground */,
+			);
+			path = 14_MemoryAccessAndPointers;
+			sourceTree = "<group>";
+		};
 		7783C4D0291FC8B7006A3B4B = {
 			isa = PBXGroup;
 			children = (
@@ -90,6 +99,7 @@
 				77EE5B0C2A03C33D00B96158 /* 09_MemoryManagement */,
 				77EE5B112A18FD2100B96158 /* 10_Extention */,
 				77A8F7082A3CA495002C1EAC /* 12_Closure */,
+				777C698A2A90F42A00A38270 /* 14_MemoryAccessAndPointers */,
 			);
 			sourceTree = "<group>";
 		};
