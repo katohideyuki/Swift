@@ -23,6 +23,7 @@
 		7760FBAF2A59777A001F76A8 /* 03_UsageAndNotation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_UsageAndNotation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		776689972965BEB40009D45E /* 03_IUO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_IUO.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7767583A29E59A7B00F77BEC /* 03_InitializersAndSubClasses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_InitializersAndSubClasses.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		776A9F852A9F7168000FCF30 /* 02_FunctionCallAndMemberLookup.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_FunctionCallAndMemberLookup.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		777C698B2A90F49E00A38270 /* 01_dateType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_dateType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		777C698C2A92F48300A38270 /* 03_CorrespondenceWithObjective-C.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "03_CorrespondenceWithObjective-C.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		777C69902A972BCA00A38270 /* 01_PropertyWrapper.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_PropertyWrapper.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -92,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				777C69902A972BCA00A38270 /* 01_PropertyWrapper.playground */,
+				776A9F852A9F7168000FCF30 /* 02_FunctionCallAndMemberLookup.playground */,
 			);
 			path = 15_CustomAttrubuteDSLNotation;
 			sourceTree = "<group>";
